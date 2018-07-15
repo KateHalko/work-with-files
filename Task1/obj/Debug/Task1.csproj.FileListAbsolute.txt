@@ -1,0 +1,20 @@
+H:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\bin\Debug\Task1.exe.config
+H:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\bin\Debug\Task1.exe
+H:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\bin\Debug\Task1.pdb
+H:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+H:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+H:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\obj\Debug\Task1.exe
+H:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\obj\Debug\Task1.pdb
+F:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\bin\Debug\Task1.exe.config
+F:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\obj\Debug\Task1.exe
+F:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\obj\Debug\Task1.pdb
+F:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\bin\Debug\Task1.exe
+F:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\bin\Debug\Task1.pdb
+F:\4 семестр\Вычислительная практика 2\Лаба 9\Lab9\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Лаба 9\Lab9\Task1\bin\Debug\Task1.exe.config
+C:\Users\user\Desktop\Лаба 9\Lab9\Task1\bin\Debug\Task1.exe
+C:\Users\user\Desktop\Лаба 9\Lab9\Task1\bin\Debug\Task1.pdb
+C:\Users\user\Desktop\Лаба 9\Lab9\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Лаба 9\Lab9\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лаба 9\Lab9\Task1\obj\Debug\Task1.exe
+C:\Users\user\Desktop\Лаба 9\Lab9\Task1\obj\Debug\Task1.pdb
